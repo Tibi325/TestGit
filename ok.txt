@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this change will go into branch 1
+=======
+this change will be in branch 2
+>>>>>>> master
